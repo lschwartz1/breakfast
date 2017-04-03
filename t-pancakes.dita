@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_pnn_kcm_kz">
+    <title>Easy Pancakes</title>
+    <shortdesc>These pancakes are easy to make and delicious, and only take a few minutes to
+        make.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 cup flour</li>
+                <li>1 Tbsp sugar</li>
+                <li>2 Tbsp baking powder</li>
+                <li>1/8 tsp salt</li>
+                <li audience="armando">1 cup soymilk</li>
+                <li audience="mom">1 cup milk</li>
+                <li>2 Tbsp vegetable oil</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Serves 2</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Set out all of your ingredients.</cmd>
+            </step>
+            <step>
+                <cmd>Set a stove element with a pan to medium heat.</cmd>
+            </step>
+            <step>
+                <cmd>Combine the four ingredients (flour, sugar, baking powder, salt) in a bowl.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add the soymilk and vegetable oil to your mixture.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Add the milk and vegetable oil to your mixture.</cmd>
+            </step>
+            <step>
+                <cmd>Mix until smooth.</cmd>
+            </step>
+            <step>
+                <cmd>When pan is ready, spoon one pancakes' worth of the mixture into the pan.</cmd>
+            </step>
+            <step>
+                <cmd>Flip when you see bubbles in the middle of the pancake, or if the edges are looking stiffened.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat until the batter is gone.</cmd>
+            </step>
+            <step>
+                <cmd>Serve immediately.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

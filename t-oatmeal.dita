@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_f1n_qkm_kz">
+    <title>Easy Oatmeal</title>
+    <shortdesc>Healthy, nutritious, and delicious oatmeal!</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Ingredients</p>
+            <ul>
+                <li audience="armando">1 cup soy milk</li>
+                <li audience="mom">1 cup milk</li>
+                <li>3 Tbsp oats</li>
+                <li>2 dates</li>
+                <li>3 walnuts</li>
+                <li>1 strawberry</li>
+                <li>1 banana</li>
+                <li audience="armando">1 tsp agave syrup (optional)</li>
+                <li audience="mom">1 tsp honey (optional)</li>
+                <li>1/4 tsp cinnamon (optional)</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Prep time: 5 minutes</p>
+            <p>Cook time: 10 minutes</p>
+            <p>Total Time: 15 minutes</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Pour the milk in a saucepan and bring it to a boil.</cmd>
+            </step>
+            <step>
+                <cmd>Add the oats, cover the saucepan and cook over medium heat for about 10-15 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Place the mixture in a bowl and add the rest of the ingredients.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

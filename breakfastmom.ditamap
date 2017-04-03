@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title/>
+ <topicref href="c-intro.md" format="markdown">
+  <topicref href="t-oatmeal.dita"/>
+  <topicref href="t-omelet.dita"/>
+  <topicref href="t-pancakes.dita"/>
+  <topicref href="t-tacos.dita"/>
+ </topicref>
+ <topicref href="c-troubleintro.md" format="markdown">
+  <topicref href="ts-pan.dita"/>
+ </topicref>
+</map>
