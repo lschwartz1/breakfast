@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_xz4_v5n_lz">
+    <title>Easy Pancakes Nutrition Facts</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>Calories: 210</li>
+                <li>Fat: 8g</li>
+                <li>Carbohydrates: 23g</li>
+                <li>Sugar: 5g</li>
+                <li>Sodium: 500mg</li>
+                <li>Fiber: 2g</li>
+                <li>Protein: 23g</li>
+            </ul>
+        </prereq>
+        <context>
+            <p></p>
+        </context>
+    </taskbody>
+</task>

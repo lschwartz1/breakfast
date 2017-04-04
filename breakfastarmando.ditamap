@@ -7,8 +7,17 @@
   <topicref href="t-omelet.dita"/>
   <topicref href="t-pancakes.dita"/>
   <topicref href="t-tacos.dita"/>
+  <topicref href="t-spotatoes.dita"/>
  </topicref>
  <topicref href="c-troubleintro.md" format="markdown">
+  <topicref href="ts-panstick.dita"/>
   <topicref href="ts-pan.dita"/>
+ </topicref>
+ <topicref href="c-nfacts.dita">
+  <topicref href="t-omeletfacts.dita"/>
+  <topicref href="t-oatmealfacts.dita"/>
+  <topicref href="t-pancakefacts.dita"/>
+  <topicref href="t-tacofacts.dita"/>
+  <topicref href="t-spotatofacts.dita"/>
  </topicref>
 </map>

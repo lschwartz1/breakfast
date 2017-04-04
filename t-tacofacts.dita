@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_iq5_dsn_lz">
+    <title>Easy Breakfast Tacos Nutrition Facts</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li audience="armando">Calories: 259</li>
+                <li audience="mom">Calories: 350</li>
+                <li audience="armando">Fat: 11g</li>
+                <li audience="mom">Fat: 15g</li>
+                <li audience="armando">Carbohydrates: 32g</li>
+                <li audience="mom">Carbohydrates: 40g</li>
+                <li audience="armando">Sugar: 7.7g</li>
+                <li audience="mom">Sugar: 8.1g</li>
+                <li audience="armando">Sodium: 451mg</li>
+                <li audience="mom">Sodium: 500mg</li>
+                <li>Fiber: 8.7g</li>
+                <li audience="armando">Protein: 10.5g</li>
+                <li audience="mom">Protein: 15g</li>
+            </ul>
+        </prereq>
+        <context>
+            <p></p>
+        </context>
+       
+    </taskbody>
+</task>

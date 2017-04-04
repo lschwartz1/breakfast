@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_umd_kwn_lz">
+    <title>Quick Sweet Potato Hash Nutrition Facts</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li audience="armando">Calories: 350</li>
+                <li audience="mom">Calories: 400</li>
+                <li audience="armando">Fat: 10g</li>
+                <li audience="mom">Fat: 15g</li>
+                <li audience="armando">Saturated Fat: 1.5g</li>
+                <li audience="mom">Saturated Fat: 2g</li>
+                <li audience="armando">Carbohydrates: 35g</li>
+                <li audience="mom">Carbohydrates: 40g</li>
+                <li audience="armando">Sugar: 8.2g</li>
+                <li audience="mom">Sugar: 8.8g</li>
+                <li audience="armando">Sodium: 470mg</li>
+                <li audience="mom">Sodium: 550mg</li>
+                <li>Fiber: 8.5g</li>
+                
+                <li audience="armando">Protein: 10g</li>
+                <li audience="mom">Protein: 18g</li>
+            </ul>
+        </prereq>
+        <context>
+            <p></p>
+        </context>
+    </taskbody>
+</task>

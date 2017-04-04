@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_tl2_15n_lz">
+    <title>Simple Omelet Nutrition Facts</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li audience="armando">Calories: 232</li>
+                <li audience="mom">Calories: 330</li>
+                <li audience="armando">Fat: 7.8g</li>
+                <li audience="mom">Fat: 8.6g</li>
+                <li audience="armando">Saturated Fat: 1.2g</li>
+                <li audience="mom">Saturated Fat: 2g</li>
+                <li audience="armando">Carbohydrates: 22g</li>
+                <li audience="mom">Carbohydrates: 30g</li>
+                <li audience="armando">Sugar: 2g</li>
+                <li audience="mom">Sugar: 3g</li>
+                <li audience="armando">Sodium: 760mg</li>
+                <li audience="mom">Sodium: 850mg</li>
+                <li>Fiber: 8g</li>
+                <li audience="armando">Protein: 22g</li>
+                <li audience="mom">Protein: 27g</li>
+            </ul>
+        </prereq>
+        <context>
+            <p></p>
+        </context>
+    </taskbody>
+</task>

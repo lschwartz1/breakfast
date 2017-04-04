@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_pd5_tmn_lz">
+    <title>Quick Apple Sweet Potato Hash</title>
+    <shortdesc>Simple, delicious, and easy to make!</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Ingredients</p>
+            <ul>
+                <li>2-3 large sweet potatoes, cut into uniform cubes</li>
+                <li>1-2 small apples (Fuji, Granny Smith, or Pink Lady)</li>
+                <li audience="mom">2 large eggs</li>
+                <li audience="mom">1 cup sausage/bacon, chopped</li>
+                <li>1/2 Tbsp coconut oil</li>
+                <li>1 Tbsp chopped sage</li>
+                <li>1/2 tsp garlic powder</li>
+                <li>1/2 tsp salt</li>
+                <li>pinch of black pepper</li>
+                
+            </ul>
+        </prereq>
+        <context>
+            <p>Serves 3-4</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Dice sweet potatoes into uniform cubes. Place into a glass bowl and microwave for 6-8 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Peel and chop apples while potatoes are cooking.</cmd>
+            </step>
+            <step>
+                <cmd>Preheat a large skillet over medium heat. Add coconut oil to the skillet.</cmd>
+            </step>
+            <step>
+                <cmd>Add the sweet potatoes and chopped apples to the skillet.</cmd>
+            </step>
+            <step>
+                <cmd>Chop sage and add to the skillet. Add salt and pepper.</cmd>
+            </step>
+            <step>
+                <cmd>Cook for 5-7 minutes over medium heat. Stir occasionally.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Serve with favorite protein.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Serve with eggs and sausage/bacon.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
