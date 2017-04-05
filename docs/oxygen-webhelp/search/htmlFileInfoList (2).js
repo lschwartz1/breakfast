@@ -1,0 +1,16 @@
+fil = new Array();
+fil["0"]= "c-intro.html@@@Easy Breakfast Recipes@@@Welcome to your guide to easy breakfast recipes. Here are four recipes sure to make your day start with a bang!...";
+fil["1"]= "c-nfacts.html@@@Nutrition Facts@@@A guide to the delicious foods you will be eating for breakfast...";
+fil["2"]= "c-troubleintro.html@@@Troubleshooting@@@Problems sometimes occur when making various breakfast recipes. The following topics are the most common problems that occur when making breakfasts, and how to fix them...";
+fil["3"]= "t-oatmeal.html@@@Easy Oatmeal@@@Healthy, nutritious, and delicious oatmeal!...";
+fil["4"]= "t-oatmealfacts.html@@@Easy Oatmeal Nutrition Facts@@@Calories: 507 Fat: 6.2g Saturated Fat: 0.7g Carbohydrates: 110.8g Sugar: 70.5g Sodium: 98.6mg Fiber: 12.3g Protein: 9.8g...";
+fil["5"]= "t-omelet.html@@@Simple Omelet@@@Seven ingredients, loads of veggies, and simple methods. Hearty, savory, fluffy, and delicious...";
+fil["6"]= "t-omeletfacts.html@@@Simple Omelet Nutrition Facts@@@Calories: 330 Fat: 8.6g Saturated Fat: 2g Carbohydrates: 30g Sugar: 3g Sodium: 850mg Fiber: 8g Protein: 27g...";
+fil["7"]= "t-pancakefacts.html@@@Easy Pancakes Nutrition Facts@@@Calories: 210 Fat: 8g Carbohydrates: 23g Sugar: 5g Sodium: 500mg Fiber: 2g Protein: 23g...";
+fil["8"]= "t-pancakes.html@@@Easy Pancakes@@@These pancakes are easy to make and delicious, and only take a few minutes to make...";
+fil["9"]= "t-spotatoes.html@@@Quick Apple Sweet Potato Hash@@@Simple, delicious, and easy to make!...";
+fil["10"]= "t-spotatofacts.html@@@Quick Sweet Potato Hash Nutrition Facts@@@Calories: 400 Fat: 15g Saturated Fat: 2g Carbohydrates: 40g Sugar: 8.8g Sodium: 550mg Fiber: 8.5g Protein: 18g...";
+fil["11"]= "t-tacofacts.html@@@Easy Breakfast Tacos Nutrition Facts@@@Calories: 350 Fat: 15g Carbohydrates: 40g Sugar: 8.1g Sodium: 500mg Fiber: 8.7g Protein: 15g...";
+fil["12"]= "t-tacos.html@@@Easy Breakfast Tacos@@@These tacos include a spicy scramble and black beans topped with veggies, creamy avocado, and pomegranate arils. This recipe is simple, healthy, filling, and delicious!...";
+fil["13"]= "ts-pan.html@@@What to do when an omelet will not turn over@@@Sometimes, an omelet will fold over because it gets stuck to the pan, or otherwise falls apart when you are attempting to turn it over. Not enough oil When there is not enough oil added in the pan...";
+fil["14"]= "ts-panstick.html@@@What To Do if Pancakes Will Not Flip@@@Pancakes are notoriously known for getting stuck to the pan/skillet and refusing to flip over, often causing a mess. Not enough grease When there is not enough oil or grease on the skillet/pan...";
