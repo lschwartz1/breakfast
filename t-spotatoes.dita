@@ -5,6 +5,7 @@
     <shortdesc>Simple, delicious, and easy to make!</shortdesc>
     <taskbody>
         <prereq>
+            <image href="spotato.jpg"></image>
             <p>Ingredients</p>
             <ul>
                 <li>2-3 large sweet potatoes, cut into uniform cubes</li>
@@ -48,5 +49,8 @@
                 <cmd>Serve with eggs and sausage/bacon.</cmd>
             </step>
         </steps>
+        <postreq>
+            <p>Recipe from http://www.pancakewarriors.com/quick-apple-sweet-potato-hash/</p>
+        </postreq>
     </taskbody>
 </task>

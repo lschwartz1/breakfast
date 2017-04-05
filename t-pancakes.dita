@@ -6,6 +6,7 @@
         make.</shortdesc>
     <taskbody>
         <prereq>
+            <image href="pancakes.jpg"></image>
             <p>Ingredients</p>
             <ul>
                 <li>1 cup flour</li>
@@ -52,5 +53,8 @@
                 <cmd>Serve immediately.</cmd>
             </step>
         </steps>
+        <postreq>
+            <p>Recipe from http://www.food.com/recipe/5-minute-vegan-pancakes-132263#activity-feed</p>
+        </postreq>
     </taskbody>
 </task>

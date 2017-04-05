@@ -5,6 +5,7 @@
     <shortdesc>Healthy, nutritious, and delicious oatmeal!</shortdesc>
     <taskbody>
         <prereq>
+            <image href="oatmeal.jpg"></image>
             <p>Ingredients</p>
             <ul>
                 <li audience="armando">1 cup soy milk</li>
@@ -35,5 +36,8 @@
                 <cmd>Place the mixture in a bowl and add the rest of the ingredients.</cmd>
             </step>
         </steps>
+       <postreq>
+           <p>Recipe from http://simpleveganblog.com/easy-vegan-oatmeal-the-10-easy-vegan-recipes-e-cookbook/</p>
+       </postreq>
     </taskbody>
 </task>

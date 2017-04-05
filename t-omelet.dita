@@ -6,6 +6,7 @@
         delicious.</shortdesc>
     <taskbody>
         <prereq>
+            <image href="omelet.jpg"></image>
             <p>Ingredients</p>
             <p>Omelet</p>
             <ul>
@@ -77,5 +78,8 @@
                 <cmd>Serve with desired toppings (salsa, parmesan cheese, cilantro, and toast recommended).</cmd>
             </step>
         </steps>
+        <postreq>
+            <p>Recipe from http://minimalistbaker.com/simple-vegan-omelet/</p>
+        </postreq>
     </taskbody>
 </task>

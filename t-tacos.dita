@@ -5,6 +5,7 @@
     <shortdesc> These tacos include a spicy scramble and black beans topped with veggies, creamy avocado, and pomegranate arils. This recipe is simple, healthy, filling, and delicious! </shortdesc>
     <taskbody>
         <prereq> 
+            <image href="tacos.jpg"></image>
        <p>Ingredients</p>
             <p>Tacos</p>
             <ul>
@@ -65,5 +66,8 @@
                 <cmd>Serve immediately with breakfast potatoes or fruit. </cmd>
             </step>
         </steps>
+        <postreq>
+            <p>Recipe from http://minimalistbaker.com/easy-vegan-breakfast-tacos/</p>
+        </postreq>
     </taskbody>
 </task>
